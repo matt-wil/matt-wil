@@ -73,11 +73,27 @@
   </a>
 </div>
 
-###
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://ko-fi.com/mattwil"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/mattwil" /></a></p><br><br>
+
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-wil&show_icons=true&locale=en&layout=compact" alt="matt-wil" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-wil&show_icons=true&locale=en" alt="matt-wil" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matt-wil&" alt="matt-wil" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">⚡ Fun facts: I'm a Skateboarding coach and a passionate Gardener 🌱</p>
 
-###
+
 <!---
 matt-wil/matt-wil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
