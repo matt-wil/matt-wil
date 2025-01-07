@@ -1,10 +1,9 @@
 <h1 align="left">Hi, I'm Matt 👋</h1>
+<p align="left">👀 I'm a very passionate <em><strong>Software Engineering</strong></em> Student at Masterschool, Berlin.<br>Prior to this, I completed a Diploma of Graphic Design at SAE Institute and I worked in telecommunications network construction.<br>  I'm passionate about building and problem-solving across various fields, from the physical to the technological.</p>
 
 ###
 ![openart-image_XuzjnqFj_1729675701276_raw](https://github.com/user-attachments/assets/c49d1eb4-ae0a-4baf-8862-37769cce6203)
 ###
-
-<p align="left">👀 I'm a very passionate <em><strong>Software Engineering</strong></em> Student at Masterschool, Berlin.<br>Prior to this, I completed a Diploma of Graphic Design at SAE Institute and I worked in telecommunications network construction.<br>  I'm passionate about building and problem-solving across various fields, from the physical to the technological.</p>
 
 ###
 
@@ -82,7 +81,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-wil&show_icons=true&locale=en" alt="matt-wil" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matt-wil&" alt="matt-wil" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matt-wil&" alt="matt-wil" />
     </td>
   </tr>
 </table>
