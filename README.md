@@ -80,9 +80,6 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-wil&show_icons=true&locale=en" alt="matt-wil" />
     </td>
-    <td>
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matt-wil&" alt="matt-wil" />
-    </td>
   </tr>
 </table>
 
