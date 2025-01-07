@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Matt 👋</h1>
-<p align="left">👀 I'm a very passionate <em><strong>Software Engineer</strong></em>.<br>
-My main focus is Full-Stack 3d Web Development and Design.<br>I've honed my skills through a 14 month intesive Software Engineering Bootcamp at Masterschool, Berlin, a Diploma of Graphic Design from SAE Institute and hands-on experience working in telecommunications network construction.<br> 
+<h3 align="left">👀 I'm a very passionate <em><strong>Software Engineer</strong></em>.<h3><br>
+<p>My main focus is Full-Stack 3d Web Development and Design.<br>I've honed my skills through a 14 month intesive Software Engineering Bootcamp at Masterschool, Berlin, a Diploma of Graphic Design from SAE Institute and hands-on experience working in telecommunications network construction.<br> 
 I thrive on building innovative solutions and tackling complex problems across various domains, from the physical to the digital.</p>
 
 ###
