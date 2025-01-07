@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Matt 👋</h1>
-<p align="left">👀 I'm a very passionate <em><strong>Software Engineering</strong></em> Student at Masterschool, Berlin.<br>Prior to this, I completed a Diploma of Graphic Design at SAE Institute and I worked in telecommunications network construction.<br>  I'm passionate about building and problem-solving across various fields, from the physical to the technological.</p>
+<p align="left">👀 I'm a very passionate <em><strong>Software Engineer</strong></em> focussing on Full-Stack 3d Web Development and Design.<br>Prior to this, I completed a Diploma of Graphic Design at SAE Institute and I worked in telecommunications network construction.<br>  I'm passionate about building and problem-solving across various fields, from the physical to the technological.</p>
 
 ###
 ![openart-image_XuzjnqFj_1729675701276_raw](https://github.com/user-attachments/assets/c49d1eb4-ae0a-4baf-8862-37769cce6203)
