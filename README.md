@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Matt 👋</h1>
-<h3 align="left">👀 A<em><strong>Software Engineer</strong></em>.<h3><br>
+<h3 align="left">👀 A<em><strong> Software Engineer</strong></em>.<h3><br>
 <p>My main focus is Full-Stack Development and Design.<br>I have a diploma in graphic design and have completed a 14 month high intensity bootcamp <br> 
 I thrive on building innovative solutions and tackling complex problems across various domains, from the physical to the digital.</p>
 
